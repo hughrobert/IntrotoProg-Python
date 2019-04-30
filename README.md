@@ -1,2 +1,2 @@
 # IntrotoProg-Python
-for reviewing homework files
+Created for reviewing Python homeworkfiles
